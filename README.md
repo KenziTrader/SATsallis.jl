@@ -1,6 +1,6 @@
 # SATsallis.jl
 
-**Simulated Annealing** global optimization in Julia with a generalization of Gibbs startistics (C. Tsallis, `Physica A` **233** (1996) 395-406). Incluides an exact random number generator for the q-Gaussian distribution at distribution (T. Schanze, `Comp. Phys. Comm.` **175** (2006) 708–712).
+**Simulated Annealing** global optimization in Julia with a generalization of Gibbs startistics (C. Tsallis, `Physica A` **233** (1996) 395-406). Incluides an exact random number generator for the q-Gaussian distribution (T. Schanze, `Comp. Phys. Comm.` **175** (2006) 708–712).
 
 The backbone of this Simulated Annealing code is based on [Optim.jl](https://github.com/JuliaOpt/Optim.jl).
 
